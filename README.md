@@ -26,7 +26,7 @@
 
 - Code Lover 💻: Writing code is my passion, connecting with the global dev community.
 
-- Cold Coffee Connoisseur ☕: I tackle work pressure with a chilled cup of cold coffee.
+- Cold Coffee Lover ☕: I tackle work pressure with a chilled cup of cold coffee.
 
 - Music & Podcasts 🎧: Always tuning into tech podcasts or lo-fi beats.
 
