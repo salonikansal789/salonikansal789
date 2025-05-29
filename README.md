@@ -3,17 +3,21 @@
 <h3 align="center">🚀I'm a passionate and results-driven Full Stack Developer with expertise in building dynamic and responsive web applications. I specialize in JavaScript, Node.js, React.js, and TypeScript to deliver high-quality solutions that are both scalable and maintainable.</h3>
 
 <h5>🌱 What I’m Working On:</h5>
+
 - Currently developing a Billing System 💳.
 - Exploring Kafka for implementing event-driven architecture 📡.
+
 - Learning Redis to enhance caching and optimize system performance 🚀.
 
-- 📫 How to reach me **📧 [salonikansal789@gmail.com](mailto:salonikansal789@gmail.com), 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/saloni-kansal-a421bb1a0/)**
+📫 How to reach me **📧 [salonikansal789@gmail.com](mailto:salonikansal789@gmail.com), 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/saloni-kansal-a421bb1a0/)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YLpOwdKRgWgOjSF-R2nYzIjgq7p3UCIm/view?usp=drive_link](https://drive.google.com/file/d/1YLpOwdKRgWgOjSF-R2nYzIjgq7p3UCIm/view?usp=drive_link)
+📄 Know about my experiences [https://drive.google.com/file/d/1YLpOwdKRgWgOjSF-R2nYzIjgq7p3UCIm/view?usp=drive_link](https://drive.google.com/file/d/1YLpOwdKRgWgOjSF-R2nYzIjgq7p3UCIm/view?usp=drive_link)
 
 💼 How I Work:
-- I follow Agile methodologies 🏃‍♂️, breaking down tasks into sprints for efficient progress and timely delivery
+- I follow Agile methodologies 🏃‍♂️, breaking down tasks into sprints for efficient progress and timely delivery.
+  
 - I emphasize collaborative teamwork 🤝 and open communication to ensure everyone is aligned with project goals.
+
 - I focus on building scalable and maintainable systems with a clean and modular code structure 🛠️.
 
 ✨ A Bit About Me:
