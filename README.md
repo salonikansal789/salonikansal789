@@ -4,14 +4,14 @@
 
 <h5>🌱 What I’m Working On:</h5>
 
-- Currently developing a Billing System 💳.
+- Currently learning AI and its trends💳.
 - Exploring Kafka for implementing event-driven architecture 📡.
 
 - Learning Redis to enhance caching and optimize system performance 🚀.
 
 📫 How to reach me **📧 [salonikansal789@gmail.com](mailto:salonikansal789@gmail.com), 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/saloni-kansal-a421bb1a0/)**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1YLpOwdKRgWgOjSF-R2nYzIjgq7p3UCIm/view?usp=drive_link](https://drive.google.com/file/d/1l7en_rzqbDAqRHtYUcjw7t7BxsNtuwdX/view)
+📄 Know about my experiences [https://drive.google.com/file/d/1rdAbmjkSVU3J5qPwdtIZL_OrVhki0mK8/view?usp=sharing](https://drive.google.com/file/d/1rdAbmjkSVU3J5qPwdtIZL_OrVhki0mK8/view?usp=sharing)
 
 💼 How I Work:
 - I follow Agile methodologies 🏃‍♂️, breaking down tasks into sprints for efficient progress and timely delivery.
