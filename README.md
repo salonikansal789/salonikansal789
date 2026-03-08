@@ -5,8 +5,8 @@
 <h5>🌱 What I’m Working On:</h5>
 
 - Currently learning AI and its trends💳.
+- Currently Working in Mini HireIQ prject using google gemini and langChain.
 - Exploring Kafka for implementing event-driven architecture 📡.
-
 - Learning Redis to enhance caching and optimize system performance 🚀.
 
 📫 How to reach me **📧 [salonikansal789@gmail.com](mailto:salonikansal789@gmail.com), 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/saloni-kansal-a421bb1a0/)**
