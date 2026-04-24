@@ -11,7 +11,7 @@
 
 📫 How to reach me **📧 [salonikansal789@gmail.com](mailto:salonikansal789@gmail.com), 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/saloni-kansal-a421bb1a0/)**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1rdAbmjkSVU3J5qPwdtIZL_OrVhki0mK8/view?usp=sharing](https://drive.google.com/file/d/1rdAbmjkSVU3J5qPwdtIZL_OrVhki0mK8/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1Cwo4eaFrxqHkhR98ZY2YXTX3gn4Zma8S/view?usp=sharing](https://drive.google.com/file/d/1Cwo4eaFrxqHkhR98ZY2YXTX3gn4Zma8S/view?usp=sharing)
 
 💼 How I Work:
 - I follow Agile methodologies 🏃‍♂️, breaking down tasks into sprints for efficient progress and timely delivery.
